@@ -1,22 +1,41 @@
 # DSA_on_JavaScript
 
-Welcome to my JavaScript Data Structures and Algorithms (DSA) repository! 🚀
-
-This repo contains various JavaScript solutions to practice DSA concepts, including basic operations, swaps, and arithmetic, with detailed explanations and code examples. Here's a summary of what you’ll find:
-
-## Day 1: Basic JavaScript Concepts
-
-In this session, I focused on understanding the foundational JavaScript concepts. The code covers:
-
-- **Basic Arithmetic Operations**: Sum, subtraction, multiplication, division, and modulus.
-- **Variable Swapping**: Explored three methods to swap variables, including the traditional, arithmetic, and destructuring methods.
-- **Type Casting and Conversion**: Demonstrated how to convert between strings and numbers and handle user input.
-- **Logical and Relational Operators**: Used operators like `&&`, `||`, `===`, `!=`, and others to compare and evaluate values.
-- **Math Functions**: Explored various built-in math functions such as `Math.round()`, `Math.sqrt()`, `Math.random()`, and more.
-- **Practice Problems**: Included exercises for calculating the area and perimeter of a rectangle, generating OTPs, and finding the area of a triangle using Heron's formula.
-
-Each section is explained in detail with example inputs and outputs. 🚀
+Welcome to my JavaScript DSA (Data Structures and Algorithms) practice repo! 🚀  
+This repo is a collection of beginner-friendly JavaScript programs that help build a strong foundation in core concepts.
 
 ---
 
-Feel free to explore and contribute. Happy coding! 💻✨
+## 📅 Folder Structure
+
+### ✅ Day 1 - JavaScript Basics
+Covers essential concepts like:
+- Arithmetic operations
+- Type casting and user input handling
+- Variable swapping (3 methods)
+- Logical & relational operators
+- Useful `Math` functions
+- Mini problems (area, perimeter, OTP generator, Heron's formula)
+
+### ✅ Day 2 - Conditionals & Control Flow
+Focused on decision-making statements:
+- If-else and nested conditionals
+- Ternary and nested ternary operators
+- Switch statements
+- Real-world problems:
+  - Voter eligibility checker
+  - Shop discount calculator (2 methods)
+  - Electricity bill calculator (slab-based)
+  - INR denomination breakdown
+
+---
+
+## 🔄 Updates
+
+I regularly update some folders as I improve the logic or find better approaches. So feel free to revisit any section for improvements or new additions.
+
+---
+
+## 🙌 Contributions
+
+Suggestions or improvements are always welcome.  
+Let’s grow together — Happy coding! 💻✨
